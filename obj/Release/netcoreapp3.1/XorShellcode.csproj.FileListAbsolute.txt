@@ -1,0 +1,13 @@
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\bin\Release\netcoreapp3.1\XorShellcode.exe
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\bin\Release\netcoreapp3.1\XorShellcode.deps.json
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\bin\Release\netcoreapp3.1\XorShellcode.runtimeconfig.json
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\bin\Release\netcoreapp3.1\XorShellcode.runtimeconfig.dev.json
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\bin\Release\netcoreapp3.1\XorShellcode.dll
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\bin\Release\netcoreapp3.1\XorShellcode.pdb
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\obj\Release\netcoreapp3.1\XorShellcode.csprojAssemblyReference.cache
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\obj\Release\netcoreapp3.1\XorShellcode.AssemblyInfoInputs.cache
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\obj\Release\netcoreapp3.1\XorShellcode.AssemblyInfo.cs
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\obj\Release\netcoreapp3.1\XorShellcode.csproj.CoreCompileInputs.cache
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\obj\Release\netcoreapp3.1\XorShellcode.dll
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\obj\Release\netcoreapp3.1\XorShellcode.pdb
+C:\Users\pcuser\source\repos\ProcessHollow\XorShellcode\obj\Release\netcoreapp3.1\XorShellcode.genruntimeconfig.cache
